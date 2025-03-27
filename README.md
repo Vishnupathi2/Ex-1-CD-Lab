@@ -1,5 +1,5 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
-# Register Number :212223230004  
+# Register Number :212221223004
 # Date :
 # AIM :
 ## To write a C program to implement a symbol table.
